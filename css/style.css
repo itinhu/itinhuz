@@ -217,6 +217,10 @@ a, a:hover {
   background: linear-gradient(45deg, #1a010a, #2c0303);
   box-shadow: 0px 4px 30px rgba(223, 45, 70, 0.6);
 }
+.profile-card-social__item.twitch {
+  background: linear-gradient(45deg, #3f095f, #7a01aa);
+  box-shadow: 0px 4px 30px rgba(223, 45, 70, 0.6);
+}
 .profile-card-social .icon-font {
   display: inline-flex;
 }
